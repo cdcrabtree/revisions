@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/cdcrabtree/revisions.svg?branch=master)](https://travis-ci.org/cdcrabtree/revisions)
+
 ## revisions: An R package that contains macroeconomic revisions data.
 
 ### Data
