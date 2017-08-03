@@ -5,7 +5,7 @@ Version: 0.1.0
 Authors@R: c(person("Charles", "Crabtree", role = c("aut", "cre"),
                      email = "ccrabtr@umich.edu"),
               person("Andrew", "Kerner", role = c("aut")))
-Description: An R package that contains macroeconomic revisions data.
+Description: An R package that contains macroeconomic revisions data. 
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
